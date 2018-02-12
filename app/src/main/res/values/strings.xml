@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SampleLibrary</string>
+    <string name="text_synchronizing">Synchronizing...</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_ok">Okay</string>
+    <string name="text_permission_name">Permission</string>
+    <string name="text_permissions_are_necessary">These permissions are necessary for this application to work.</string>
+    <string name="text_call_status">CALL STATUS</string>
+    <string name="text_contacts">CONTACTS</string>
+    <string name="text_camera">CAMERA</string>
+    <string name="text_audio_record">AUDIO RECORD</string>
+    <string name="text_storage">STORAGE</string>
+    <string name="text_phone_state_description">This permission is required to read the incoming/outgoing call status.</string>
+    <string name="text_record_video_description">This permission is required to record video.</string>
+    <string name="text_storage_description">This permission is required to save the recordings.</string>
+    <string name="text_contacts_description">This permission is required to fetch names and numbers of your contacts.</string>
+    <string name="text_record_audio_description">This permission is required to record audio.</string>
+
+
+</resources>
